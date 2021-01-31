@@ -1,11 +1,26 @@
 [
   
   {
+    "title": "My First Blog",
+    "url": "/posts/my-first-blog/",
+    "categories": "Blogging",
+    "tags": "writing",
+    "date": "2021-01-31 15:36:00 +0100",
+    
+
+
+
+
+
+    "snippet": "This is my first blog."
+  },
+  
+  {
     "title": "Customize the Favicon",
     "url": "/posts/customize-the-favicon/",
     "categories": "Blogging, Tutorial",
     "tags": "favicon",
-    "date": "2019-08-11 00:34:00 +0800",
+    "date": "2019-08-10 17:34:00 +0100",
     
 
 
@@ -20,7 +35,7 @@
     "url": "/posts/getting-started/",
     "categories": "Blogging, Tutorial",
     "tags": "getting started",
-    "date": "2019-08-09 20:55:00 +0800",
+    "date": "2019-08-09 13:55:00 +0100",
     
 
 
@@ -35,7 +50,7 @@
     "url": "/posts/write-a-new-post/",
     "categories": "Blogging, Tutorial",
     "tags": "writing",
-    "date": "2019-08-08 14:10:00 +0800",
+    "date": "2019-08-08 07:10:00 +0100",
     
 
 
@@ -50,7 +65,7 @@
     "url": "/posts/text-and-typography/",
     "categories": "Blogging, Demo",
     "tags": "typography",
-    "date": "2019-08-08 11:33:00 +0800",
+    "date": "2019-08-08 04:33:00 +0100",
     
 
 
